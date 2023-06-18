@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "uSLSlKUFQ2xKRXst44UI2MzQgzQ8JP2jZGv2K66GN1s=",
+  "Source": "Sending_Emails_SMS",
+  "BasePath": "_content/Sending_Emails_SMS",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
